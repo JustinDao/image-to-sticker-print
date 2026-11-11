@@ -1,5 +1,7 @@
 # PearlRound 2" Sticker Print Studio
 
+**Live App:** [https://image-to-sticker-print.vercel.app/](https://image-to-sticker-print.vercel.app/)
+
 A Vercel-ready Next.js web application for designing and generating exact **8.5" × 11" (US Letter) 300-DPI printable PDFs** for **2-Inch Round Pearlescent Die-Cut Label Sheets** (12 labels per sheet in a 3-column × 4-row grid, 20 sheets / 240 labels per pack).
 
 ## Features
